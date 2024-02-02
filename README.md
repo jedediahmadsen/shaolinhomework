@@ -17,3 +17,9 @@ Homework repo for Shaolin class
 [3]:	/data
 
 [image-1]:	/images/Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg
+
+## This is a fun class
+
+### Cool table
+
+Sorry for taking so long on this.  I just edited this in GitHub. Wasn't sure how to do all of this in the Terminal
