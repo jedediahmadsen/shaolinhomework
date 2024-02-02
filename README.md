@@ -23,3 +23,8 @@ Homework repo for Shaolin class
 ### Cool table
 
 Sorry for taking so long on this.  I just edited this in GitHub. Wasn't sure how to do all of this in the Terminal
+
+| Brother | Age | Hair Amount|
+| Dave | 30-something | Some |
+| Jed | 41ish | Very Little|
+
