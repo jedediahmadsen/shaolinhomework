@@ -11,7 +11,7 @@ Homework repo for Shaolin class
 - [Images][1]
 - [Code][2]
 - [Data][3]
-- [Cool Table](#Cool table)
+- [Cool Table](#-cool-table)
 
 ## This is a fun class
 
