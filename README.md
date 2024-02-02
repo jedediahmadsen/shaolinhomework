@@ -11,6 +11,7 @@ Homework repo for Shaolin class
 - [Images][1]
 - [Code][2]
 - [Data][3]
+- (Cool Table)[#Cool table]
 
 ## This is a fun class
 
@@ -34,8 +35,8 @@ Sorry for taking so long on this.  I just edited this in GitHub. Wasn't sure how
 </details>
 
 [1]:	/images "Images"
-[2]:	/code
-[3]:	/data
+[2]:	/code "Code"
+[3]:	/data "Data"
 
 [image-1]:	/images/tenor-172827175.gif
 [image-2]:	/images/tenor-49822184.gif
