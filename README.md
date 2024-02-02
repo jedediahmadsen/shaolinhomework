@@ -2,7 +2,7 @@
 
 Homework repo for Shaolin class
 
-![/images/Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg][image-1]
+![https://tenor.com/JlRC.gif][image-1]
 
 ## This is a lovely subhead
 
@@ -16,7 +16,7 @@ Homework repo for Shaolin class
 [2]:	/code
 [3]:	/data
 
-[image-1]:	/images/Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg
+[image-1]:	https://tenor.com/JlRC.gif
 
 ## This is a fun class
 
